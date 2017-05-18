@@ -1,0 +1,26 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "description": "My profile",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.11",
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenyVeyten/profile.git"
+  },
+  "author": "DenyVeyten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DenyVeyten/profile/issues"
+  },
+  "homepage": "https://github.com/DenyVeyten/profile#readme"
+}
